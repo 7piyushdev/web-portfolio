@@ -4,9 +4,7 @@ import LogoSubtitle from '../../assets/images/logo-name.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faLinkedin,
-  faGithub,
-  faYoutube,
-  faSkype,
+  faGithub, 
 } from '@fortawesome/free-brands-svg-icons'
 import { faHome, faUser, faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import { Link, NavLink } from 'react-router-dom'
